@@ -2,6 +2,11 @@
 
 class Test{
 
+
+public void echo(){
+	System.out.println("echo");
+}
+
 public void exit(){
 	System.out.println("exit");
 }
