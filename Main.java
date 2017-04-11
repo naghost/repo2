@@ -2,6 +2,11 @@
 
 class Test{
 
+public void exit(){
+	System.out.println("exit");
+}
+
+
 public void adios(){
 	System.out.println("adios");
 }
